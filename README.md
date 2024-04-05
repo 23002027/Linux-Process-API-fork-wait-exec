@@ -59,8 +59,9 @@ int main(void)
 
 
 
-## OUTPUT
-![image](https://github.com/shoaib3136/Linux-Process-API-fork-wait-exec/assets/117919362/eee79ac8-23fb-4cb7-8b53-3b095d6cbc6d)
+## OUTPUT:
+![image](https://github.com/23002027/Linux-Process-API-fork-wait-exec/assets/139752981/34a74cf9-d069-47a9-8a74-9dba5de0ce44)
+
 
 
 
@@ -106,8 +107,10 @@ exit(0);}
 
 
 
-## OUTPUT
-![image](https://github.com/shoaib3136/Linux-Process-API-fork-wait-exec/assets/117919362/5bdb59c0-81ce-4ce6-8117-9f25bcd57241)
+## OUTPUT :
+![image](https://github.com/23002027/Linux-Process-API-fork-wait-exec/assets/139752981/36eadecf-8c1f-4709-a69c-4bb76b0cd789)
+
+
 
 
 
@@ -157,7 +160,8 @@ int main()
 
 
 ## OUTPUT
-![image](https://github.com/shoaib3136/Linux-Process-API-fork-wait-exec/assets/117919362/7c8740eb-ea50-477f-8aab-5db463399d0d)
+![image](https://github.com/23002027/Linux-Process-API-fork-wait-exec/assets/139752981/102b8fc7-9779-4011-9524-14b2ddc094ea)
+
 
 
 
